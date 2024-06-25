@@ -1,4 +1,4 @@
-let nomeHeroi = "Ronnie James DIO"
+let nomeHeroi = "Ronnie J DIO"
 let XP = 10002
 let nivel
 
