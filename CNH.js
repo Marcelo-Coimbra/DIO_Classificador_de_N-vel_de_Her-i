@@ -25,8 +25,3 @@ else if(XP >= 10001){
 }
 
 console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivel)
-
-
-
-
-
